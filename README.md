@@ -63,13 +63,7 @@ Data sourced from publicly available Olympic historical datasets (e.g., Kaggle, 
 
 ---
 
-## 🚀 Getting Started
 
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore, filter, and analyze Olympic data interactively
-
----
 
 ## 🤝 Let's Connect
 
