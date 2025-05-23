@@ -59,7 +59,7 @@ Data sourced from publicly available Olympic historical datasets (e.g., Kaggle, 
 
 ## 📸 Dashboard Preview
 
-![Olympic Dashboard Screenshot](""C:\Users\aritr\OneDrive\Pictures\Screenshots\Screenshot 2025-05-23 155239.png"")
+![Olympic Dashboard Screenshot]("![Image](https://github.com/user-attachments/assets/8cf542c8-ee07-4716-8388-018f0d9d6a23)")
 
 ---
 
