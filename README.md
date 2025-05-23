@@ -59,7 +59,7 @@ Data sourced from publicly available Olympic historical datasets (e.g., Kaggle, 
 
 ## 📸 Dashboard Preview
 
-![Olympic Dashboard Screenshot]("https://drive.google.com/file/d/1aAtLWb1yZAou1FJ7wlbDghj6LIioInx7/view?usp=drive_link")
+![Olympic Dashboard Screenshot](""C:\Users\aritr\OneDrive\Pictures\Screenshots\Screenshot 2025-05-23 155239.png"")
 
 ---
 
