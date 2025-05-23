@@ -73,5 +73,4 @@ Data sourced from publicly available Olympic historical datasets (e.g., Kaggle, 
 
 ---
 
-> ⭐ *If you found this useful, feel free to star the repository or share your feedback!*
 
